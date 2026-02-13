@@ -1,0 +1,7 @@
+{
+  "name": "Soberania Masculina - Devocional & Desafio",
+  "description": "Um aplicativo interativo para acompanhar sua jornada de 42 dias, com acompanhamento de progresso, devocionais diários, desafios físicos e anotações pessoais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
